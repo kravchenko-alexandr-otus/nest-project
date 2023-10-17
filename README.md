@@ -1,2 +1,1 @@
-# nest-project
-nestjs-proj
+# nest-postgres-typeorm
